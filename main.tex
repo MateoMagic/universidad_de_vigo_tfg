@@ -1,0 +1,87 @@
+\documentclass[11pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage{mathptmx}
+\usepackage[spanish, es-tabla]{babel}
+\usepackage{kpfonts}
+
+\usepackage{graphicx}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage{float}
+%\usepackage{floatrow}
+\usepackage{booktabs}
+
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ left=30mm,
+ right=15mm,
+ top=25mm,
+ bottom=25mm,
+ headheight=31.1pt,
+ headsep=4pt
+ }
+ 
+ 
+%Encabezado y pie de página 
+\usepackage{fancyhdr}
+
+%Estilo sección
+\definecolor{AzulTFG}{RGB}{0, 148, 224}
+\usepackage{titlesec}
+
+%interlineado entre parágrafo y sangrado
+\usepackage{parskip}
+%\usepackage[parfill]{parskip}
+
+%captions sin negrita
+
+\usepackage{caption}
+\usepackage{subcaption}
+\captionsetup{labelfont=normalfont}
+
+%hipervínculos
+\usepackage[hidelinks]{hyperref}
+
+%formato índice
+\usepackage{tocbibind}
+\addto\captionsspanish{\renewcommand{\contentsname}{Contenido}}
+\usepackage{tocloft}
+
+%portada
+\usepackage{framed}
+\input{Portada/Portada}
+
+%bibliografía
+\usepackage[numbers]{natbib}
+\bibliographystyle{Bibliografia/IEEEtraN}
+
+
+\begin{document}
+
+%portada
+%cambiar parámetros para modificala
+\printportada{Título del trabajo}{Biomédica}{Mateo Alonso Fernández}{Antonio Riveiro Rodríguez}{Nombre y apellidos}{Memoria}
+
+%índice
+\input{Formatos/Contenido}
+\tableofcontents
+\clearpage
+\listoffigures
+\clearpage
+\listoftables
+\clearpage
+
+%corpo
+\input{Formatos/Cuerpo}
+\include{Cuerpo/Apartado1_Recursos}
+\include{Cuerpo/Apartado2_Apartado}
+\include{Cuerpo/Apartado3_EjemploReferencias}
+
+
+%bibliografia
+\bibliography{Bibliografia/bibliografia}
+
+\end{document}
