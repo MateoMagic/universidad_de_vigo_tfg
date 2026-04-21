@@ -1,0 +1,23 @@
+# Carpeta de compilación
+build/
+Build/
+
+# Archivos de compilación de LaTeX
+*.aux
+*.log
+*.pdf
+*.synctex.gz
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+
+# Archivos temporales del editor
+*.swp
+*.swo
+*~
+.~*
