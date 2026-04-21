@@ -1,18 +1,19 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {section}{Contenido}{3}{section*.1}%
-\contentsline {section}{\'{I}ndice de figuras}{4}{section*.2}%
-\contentsline {section}{\'{I}ndice de tablas}{5}{section*.3}%
-\contentsline {section}{\numberline {1}Recursos}{6}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Nombres de las titulaciones}{6}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Tipografía}{6}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Color Azul}{6}{subsection.1.3}%
-\contentsline {subsection}{\numberline {1.4}Figuras}{6}{subsection.1.4}%
-\contentsline {subsection}{\numberline {1.5}Encuadernación}{6}{subsection.1.5}%
-\contentsline {section}{\numberline {2}Apartado}{8}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Subapartado}{8}{subsection.2.1}%
-\contentsline {subsubsection}{\numberline {2.1.1}Subsubapartado}{8}{subsubsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.2}Subsubapartado}{8}{subsubsection.2.1.2}%
-\contentsline {section}{\numberline {3}Ejemplo Referencias}{9}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Normas UNE}{9}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Artículo de revista}{9}{subsection.3.2}%
-\contentsline {section}{Referencias}{10}{subsection.3.2}%
+\contentsline {section}{\numberline {1}Resumen}{2}{section.1}%
+\contentsline {section}{Contenido}{4}{section*.1}%
+\contentsline {section}{\'{I}ndice de figuras}{5}{section*.2}%
+\contentsline {section}{\'{I}ndice de tablas}{6}{section*.3}%
+\contentsline {section}{\numberline {2}Recursos}{7}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Nombres de las titulaciones}{7}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Tipografía}{7}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Color Azul}{7}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Figuras}{7}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Encuadernación}{7}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Apartado}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Subapartado}{9}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Subsubapartado}{9}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Subsubapartado}{9}{subsubsection.3.1.2}%
+\contentsline {section}{\numberline {4}Ejemplo Referencias}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Normas UNE}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Artículo de revista}{10}{subsection.4.2}%
+\contentsline {section}{Referencias}{11}{subsection.4.2}%

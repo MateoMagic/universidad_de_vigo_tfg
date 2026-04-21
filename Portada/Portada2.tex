@@ -1,4 +1,4 @@
-\newcommand{\printportada}[6]{
+\newcommand{\printportadainterior}[6]{
 \newgeometry{
  left=30mm,
  right=15mm,
@@ -10,6 +10,7 @@
 \begin{framed}
 \begin{titlepage}
     \begin{center}  
+    
         \vspace{2cm}
         \includegraphics[scale=0.7]{FotosPlantilla/EEI - logo2.png}
 
@@ -30,20 +31,18 @@
         
         \vspace{3cm}
             
-        \begin{tabular}{l l}
-             {\hspace{-4cm}}\fontsize{14pt}{10}\textbf{\scshape{Alumno:}} & \fontsize{14.5pt}{10}\normalfont{#3} \\ \\
-            {\hspace{-4cm}}\fontsize{14pt}{10}\textbf{\scshape{Directores:}} & \fontsize{14.5pt}{10}\normalfont{#4} \\ \\
-             & \fontsize{14.5pt}{10}\normalfont{#5}
-        \end{tabular}       
+        \fontsize{14.5pt}{10}\textbf{Documento}    
+        
+        \vspace{1.1cm}
+        
+        \fontsize{17.5pt}{10}\textbf{\scshape{#6}}
         
         \vspace{3cm}
         
         \includegraphics[scale=1]{FotosPlantilla/UVIGO - Logo.png}
             
     \end{center}
-
 \end{titlepage}
 \end{framed}
-\clearpage
-
+\setcounter{page}{2}
 }
